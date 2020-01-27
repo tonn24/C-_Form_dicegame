@@ -1,0 +1,9 @@
+C:\Users\T470s\Desktop\taringumang3\Toomsalu_taringumang\obj\Debug\Toomsalu_taringumang.csprojAssemblyReference.cache
+C:\Users\T470s\Desktop\taringumang3\Toomsalu_taringumang\obj\Debug\Toomsalu_taringumang.Form1.resources
+C:\Users\T470s\Desktop\taringumang3\Toomsalu_taringumang\obj\Debug\Toomsalu_taringumang.Properties.Resources.resources
+C:\Users\T470s\Desktop\taringumang3\Toomsalu_taringumang\obj\Debug\Toomsalu_taringumang.csproj.GenerateResource.cache
+C:\Users\T470s\Desktop\taringumang3\Toomsalu_taringumang\bin\Debug\Toomsalu_taringumang.exe.config
+C:\Users\T470s\Desktop\taringumang3\Toomsalu_taringumang\bin\Debug\Toomsalu_taringumang.exe
+C:\Users\T470s\Desktop\taringumang3\Toomsalu_taringumang\bin\Debug\Toomsalu_taringumang.pdb
+C:\Users\T470s\Desktop\taringumang3\Toomsalu_taringumang\obj\Debug\Toomsalu_taringumang.exe
+C:\Users\T470s\Desktop\taringumang3\Toomsalu_taringumang\obj\Debug\Toomsalu_taringumang.pdb

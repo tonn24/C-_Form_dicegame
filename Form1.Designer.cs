@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.TT_kesVoitis = new System.Windows.Forms.TextBox();
             this.TT_alustaUutManguButton = new System.Windows.Forms.Button();
             this.TT_mangibJukuButton = new System.Windows.Forms.Button();
             this.TT_mangibPeeterButton = new System.Windows.Forms.Button();
@@ -45,13 +45,13 @@
             this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // textBox1
+            // TT_kesVoitis
             // 
-            this.textBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.textBox1.Location = new System.Drawing.Point(264, 338);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(246, 26);
-            this.textBox1.TabIndex = 0;
+            this.TT_kesVoitis.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.TT_kesVoitis.Location = new System.Drawing.Point(264, 338);
+            this.TT_kesVoitis.Name = "TT_kesVoitis";
+            this.TT_kesVoitis.Size = new System.Drawing.Size(246, 26);
+            this.TT_kesVoitis.TabIndex = 0;
             // 
             // TT_alustaUutManguButton
             // 
@@ -62,6 +62,7 @@
             this.TT_alustaUutManguButton.TabIndex = 1;
             this.TT_alustaUutManguButton.Text = "Alustuut mängu";
             this.TT_alustaUutManguButton.UseVisualStyleBackColor = false;
+            this.TT_alustaUutManguButton.Click += new System.EventHandler(this.TT_alustaUutManguButton_Click);
             // 
             // TT_mangibJukuButton
             // 
@@ -200,7 +201,7 @@
             this.Controls.Add(this.TT_mangibPeeterButton);
             this.Controls.Add(this.TT_mangibJukuButton);
             this.Controls.Add(this.TT_alustaUutManguButton);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.TT_kesVoitis);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -210,7 +211,7 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox TT_kesVoitis;
         private System.Windows.Forms.Button TT_alustaUutManguButton;
         private System.Windows.Forms.Button TT_mangibJukuButton;
         private System.Windows.Forms.Button TT_mangibPeeterButton;
